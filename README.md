@@ -6,7 +6,6 @@ Biologist | Bioinformatician | Data Scientist
 This repository allows others to reproduce my work, gain access to the tools I have used and developed, 
 and make contributions/suggestions.
 
-
 ### What I Do
 
 Over the past few years, I’ve:
@@ -31,8 +30,9 @@ Here are some selected projects:
 
 ---
 
-🔗 [CV or LinkedIn link]
-📫 Any questions or fun observations please feel free to reach out to me at: sjsabatino@gmail.com
+🔗 [LinkedIn link (https://www.linkedin.com/in/stephen-sabatino-57623990/)]
+🔗 [Publications link (https://scholar.google.com/citations?user=gaLw3esAAAAJ&hl=en)]
+📫 Any questions or comments please feel free to reach out to me at: sjsabatino@gmail.com
 
 ---
 
