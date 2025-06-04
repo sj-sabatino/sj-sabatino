@@ -1,5 +1,7 @@
-## welcome
 
+
+## welcome
+# H1  
 Stephen J. Sabatino  
 Biologist | Bioinformatician | Data Scientist
 
@@ -30,11 +32,11 @@ Here are some selected projects:
 
 ---
 
-🔗 [LinkedIn link (https://www.linkedin.com/in/stephen-sabatino-57623990/)]
-🔗 [Publications link (https://scholar.google.com/citations?user=gaLw3esAAAAJ&hl=en)]
-📫 Any questions or comments please feel free to reach out to me at: sjsabatino@gmail.com
+🔗 [LinkedIn link] (https://www.linkedin.com/in/stephen-sabatino-57623990/)  
+🔗 [Publications link] (https://scholar.google.com/citations?user=gaLw3esAAAAJ&hl=en)  
+📫 Any questions or comments please feel free to reach out to me at: sjsabatino@gmail.com  
 
----
+---  
 
 Thanks for visiting!
 
