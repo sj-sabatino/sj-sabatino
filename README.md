@@ -1,6 +1,6 @@
 ## welcome
 
-Stephen J. Sabatino
+Stephen J. Sabatino<\n>
 Biologist | Bioinformatician | Data Scientist
 
 This repository allows others to reproduce my work, gain access to the tools I have used and developed, 
