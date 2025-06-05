@@ -6,8 +6,6 @@ Research Biologist & Bioinformatician | Genomics, Computational Biology & Data S
 
 ---
 
-### Highlights
-
 Selected projects:
 
 | [Genome Assembly and GWAS - European shad](https://github.com/sj-sabatino/sardine_inversions_2025) | Code, data, and figures for [Sabatino et al. 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8908)  
