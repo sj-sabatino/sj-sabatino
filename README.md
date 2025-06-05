@@ -24,10 +24,9 @@ Here are some selected projects:
 
 | Project | Description | Tools & Skills |
 |--------|-------------|----------------|
-| [Variant Calling Pipeline](https://github.com/sj-sabatino/variant-calling-pipeline) | End-to-end workflow for identifying and filtering genomic variants | Snakemake, BWA, GATK, Python |
-| [Gene Expression Clustering](https://github.com/sj-sabatino/expression-clustering) | Clustering of RNA-seq data across multiple conditions | R, PCA, hierarchical clustering, ggplot2 |
-| [Reproducible Figure Generation](https://github.com/sj-sabatino/reproducible-figures) | Automating the generation of paper-ready figures from raw data | Jupyter, Matplotlib, RMarkdown |
-| [Synthetic Genomics Demo](https://github.com/sj-sabatino/synthetic-genomics) | A mock project showcasing my workflow style using synthetic data | Python, documentation, testing |
+| [Structural Variants - European Sardine](https://github.com/sj-sabatino/variant-calling-pipeline) | Code, data, and figures for Sabatino et al. 2025
+| [Genome Assembly and GWAS - European shad](https://github.com/sj-sabatino/expression-clustering) | Code, data, and figures for [Sabatino et al. 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8908)  
+| [Cview]([https://github.com/sj-sabatino/synthetic-genomics](https://sourceforge.net/p/cview/wiki/Home/) | A network based tool for enhanced alignment visualization
 
 ---
 
