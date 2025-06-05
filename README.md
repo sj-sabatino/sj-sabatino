@@ -1,8 +1,8 @@
-Stephen J. Sabatino  
-Research Biologist & Bioinformatician | Genomics, Computational Biology & Data Science
-
 #  
 Welcome!
+
+###Stephen J. Sabatino  
+Research Biologist & Bioinformatician | Genomics, Computational Biology & Data Science
 
 ---
 
