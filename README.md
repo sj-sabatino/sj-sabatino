@@ -4,11 +4,8 @@ welcome
 Stephen J. Sabatino  
 Biologist | Bioinformatician | Data Scientist
 
-This repository allows others to reproduce my work, gain access to the tools I have used and developed, 
-and make contributions/suggestions.
 
 ### What I Do
-
 Over the past few years, I’ve:
 - Processed large-scale genomic datasets (e.g., whole-genome sequencing, variant calling, expression data)
 - Built and maintained reproducible data pipelines using tools like `Snakemake`, `Nextflow`, and `R/Python`
@@ -20,13 +17,15 @@ Over the past few years, I’ve:
 
 ### Highlights
 
-Here are some selected projects:
+Selected projects:
 
-| Project | Description | Tools & Skills |
-|--------|-------------|----------------|
-| [Structural Variants - European Sardine](https://github.com/sj-sabatino/variant-calling-pipeline) | Code, data, and figures for Sabatino et al. 2025
 | [Genome Assembly and GWAS - European shad](https://github.com/sj-sabatino/expression-clustering) | Code, data, and figures for [Sabatino et al. 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8908)  
-| [Cview]([https://github.com/sj-sabatino/synthetic-genomics](https://sourceforge.net/p/cview/wiki/Home/) | A network based tool for enhanced alignment visualization
+| [Structural Variants - European Sardine](https://github.com/sj-sabatino/variant-calling-pipeline) | Code, data, and figures for Sabatino et al. 2025  
+| [scRNAseq - parrots](https://github.com/sj-sabatino/expression-clustering) | Additional analysis for [Arbore† et al. 2022]([https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8908](https://www.science.org/doi/10.1126/science.adp7710))
+
+
+Software  
+| [Cview](https://sourceforge.net/p/cview/wiki/Home/) | A network based tool for enhanced alignment visualization
 
 ---
 
