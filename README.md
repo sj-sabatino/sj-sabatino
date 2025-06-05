@@ -1,17 +1,8 @@
-welcome
+Stephen J. Sabatino  
+Research Biologist & Bioinformatician | Genomics, Computational Biology & Data Science
 
 #  
-Stephen J. Sabatino  
-Biologist | Bioinformatician | Data Scientist
-
-
-### What I Do
-Over the past few years, I’ve:
-- Processed large-scale genomic datasets (e.g., whole-genome sequencing, variant calling, expression data)
-- Built and maintained reproducible data pipelines using tools like `Snakemake`, `Nextflow`, and `R/Python`
-- Applied statistical models and machine learning for biological insight
-- Created visualizations and figures for peer-reviewed publications
-- Prioritized clean, well-documented code and transparent workflows
+Welcome!
 
 ---
 
