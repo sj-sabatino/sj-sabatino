@@ -1,7 +1,7 @@
 #  
 Welcome!
 
-###Stephen J. Sabatino  
+### Stephen J. Sabatino  
 Research Biologist & Bioinformatician | Genomics, Computational Biology & Data Science
 
 ---
