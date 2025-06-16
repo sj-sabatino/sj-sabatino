@@ -16,8 +16,8 @@ Software
 
 ---
 
-🔗 [LinkedIn link](https://www.linkedin.com/in/stephen-sabatino-57623990/)  
-🔗 [Publications link](https://scholar.google.com/citations?user=gaLw3esAAAAJ&hl=en)  
+🔗 [LinkedIn](https://www.linkedin.com/in/stephen-sabatino-57623990/)  
+🔗 [Publications](https://scholar.google.com/citations?user=gaLw3esAAAAJ&hl=en)  
   
 📫 Any questions or comments please feel free to reach out to me at: sjsabatino@gmail.com  
 
