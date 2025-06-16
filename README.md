@@ -7,8 +7,8 @@ Research Biologist & Bioinformatician | Genomics, Computational Biology & Data S
 
 Selected projects:
 
-| [Genome Assembly and GWAS - European shad](https://github.com/sj-sabatino/sardine_inversions_2025) | Code, data, and figures for [Sabatino et al. 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8908)  
-| [Structural Variants - European Sardine](https://github.com/sj-sabatino/gwas_atpase_2022) | Code, data, and figures for [Sabatino et al. 2025](https://www.biorxiv.org/content/10.1101/2025.01.15.633256v1)
+| [Genome Assembly and GWAS - European shad](https://github.com/sj-sabatino/gwas_atpase_2022) | Code, data, and figures for [Sabatino et al. 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8908)  
+| [Structural Variants - European Sardine](https://github.com/sj-sabatino/sardine_inversions_2025) | Code, data, and figures for [Sabatino et al. 2025](https://www.biorxiv.org/content/10.1101/2025.01.15.633256v1)
 
 
 Software  
